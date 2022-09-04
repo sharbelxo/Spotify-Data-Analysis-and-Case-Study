@@ -4,7 +4,7 @@ In this repository, I perform data analysis on a Spotify Dataset. This dataset c
 
 After some data analysis and visualization, there is a case study I solve and an extra Machine Learning model activity.  
 
-Click Here
+Click [here](https://github.com/sharbelxo/Spotify-Data-Analysis-and-Case-Study/blob/main/Spotify%20Data%20Analysis%20and%20Case%20Study.ipynb) to check out the notebook!
 
 DataCamp Publication:  
 https://app.datacamp.com/workspace/w/2de63fc2-ed4f-4f3f-a6ac-3629eb353f73  
